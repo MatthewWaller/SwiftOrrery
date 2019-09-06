@@ -1,5 +1,5 @@
 # SwiftOrrery
-Using NASA paper to accurately model orbital paths in Swift
+Using NASA paper to accurately model orbital paths in Swift. Used in the iOS/iPad app SolarScene.
 
 Much of the documentation is in the playground itself in comments.
 
